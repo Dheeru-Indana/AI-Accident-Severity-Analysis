@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/banner.png" alt="AI Accident Severity Analysis Banner" width="100%">
+  
   
   <h1>🚗 AI Accident Severity Analysis 🚦</h1>
   <p><strong>A futuristic, end-to-end full-stack platform for detecting, classifying, and analyzing road accident severity using advanced Computer Vision models (YOLOv8).</strong></p>
